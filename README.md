@@ -2,9 +2,10 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+React connect to SP list and get data using REST
 
-[picture of the solution in action, if possible]
+<img width="764" alt="Screenshot 2021-10-19 at 21 31 15" src="https://user-images.githubusercontent.com/48022081/137986040-851a1185-fc45-4fb7-819c-557eb192febb.png">
+
 
 ## Used SharePoint Framework Version
 
